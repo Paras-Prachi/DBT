@@ -1,3 +1,10 @@
+{{
+  config(
+    materialized = 'view',
+    )
+}}
+
+{# block level configuration  #}
 select 
 *
 from 

@@ -1,0 +1,15 @@
+# Configure this model to be materialized as a view
+# in development and a table in production/CI contexts
+version: 2
+models:
+
+  - name: bronze_store
+    config:
+      materialized: table
+
+  - name: bronze_returns
+    config:
+        materialized: table
+  - name: bronze_sales
+    config:
+        materialized: table
