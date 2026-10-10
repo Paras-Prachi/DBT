@@ -1,0 +1,11 @@
+ID,Name,Age,Department,Email,Status
+1,Amit Sharma,28,IT,amit.sharma@example.com,Active
+2,Pooja Verma,32,HR,pooja.verma@example.com,Active
+3,Rajesh Kumar,26,Finance,rajesh.kumar@example.com,Active
+4,Neha Singh,29,Marketing,neha.singh@example.com,Inactive
+5,Vikram Patel,35,Operations,vikram.patel@example.com,Active
+6,Sneha Joshi,30,Sales,sneha.joshi@example.com,Active
+7,Arjun Mehta,27,IT,arjun.mehta@example.com,Active
+8,Kavita Rao,31,Finance,kavita.rao@example.com,Inactive
+9,Suresh Nair,40,HR,suresh.nair@example.com,Active
+10,Anita Desai,33,Marketing,anita.desai@example.com,Active
