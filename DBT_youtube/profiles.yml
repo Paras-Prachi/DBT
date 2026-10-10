@@ -6,6 +6,6 @@ DBT_youtube:
       http_path: /sql/1.0/warehouses/31378c16e8c09378
       schema: default
       threads: 1
-      token: dapi3d502025ed99ffd62f0a30527dd3f60f
+      token:
       type: databricks
   target: dev
