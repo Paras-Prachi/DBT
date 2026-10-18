@@ -1,0 +1,11 @@
+snapshots:
+  - name: gold_item
+    relation: ref('source_item')
+    config:
+      schema: gold
+      database: dbt_tutorial_dev
+      strategy: timestamp
+      updated_at: updatedate
+      unique_key: id
+      dbt_valid_to_current: "to_date('9999-12-31')"
+     
